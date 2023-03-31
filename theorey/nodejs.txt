@@ -1,0 +1,12 @@
+nodejs is a javascript running on server.....
+javascript engine in each browser convert the gien code to machine understable languauge.......
+
+
+nodejs repel   
+
+
+json is lightweigth format for storing the data..
+jsin is often useqd when the data is sent from a server to a web page
+
+
+
